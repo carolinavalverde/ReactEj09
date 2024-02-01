@@ -1,8 +1,11 @@
-.form {
-  background-color: #fefefe;
-  background-image:  #046619;
+.formulario {
+  background-color: #b6eaae;
 }
 
-.title {
-  background-color: #b6eaae;
+.titulo {
+  background-color: #046619;
+}
+
+.mayuscula {
+  text-transform: capitalize;
 }
