@@ -7,7 +7,7 @@ import Formulario from "./components/Formulario";
 const App = () => {
   return (
     <div className="container-fluid my-3">
-      <div className="title p-2 text-warning text-center fw-bold">
+      <div className="title p-2 text-succes text-center fw-bold">
         <Title />
       </div>
       <div className="form p-5">

@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const Title = () => {
   return (
     <div>
-      <h2>Formulario de Datos Personales</h2>
+      <h2>Administrador de pacientes de Veterinaria</h2>
     </div>
   );
 };
