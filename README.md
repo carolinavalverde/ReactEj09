@@ -25,7 +25,7 @@ JavaScript: Programación del comportamiento dinámico de la aplicación.
 SweetAlert: alertas interactivas para los proyectos
 
 ## 5. Instalación y Uso
-Clona el repositorio: git clone https://github.com/carolinavalverde/Ej08.git
+Clona el repositorio: git clone https://github.com/carolinavalverde/Ej09.git
 Navega al directorio del proyecto: cd Ej09
 Instala las dependencias: npm install
 Inicia la aplicación: npm start
@@ -47,5 +47,6 @@ Carolina Valverde Vasile
 Este proyecto no cuenta con licencia.
 
 Esperamos que disfrutes trabajando con esta App.
+
 
 # ReactEj09
